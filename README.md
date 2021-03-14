@@ -1,3 +1,3 @@
 # JSTimer2
 
-* Voideファイル
+* Voiceファイル
